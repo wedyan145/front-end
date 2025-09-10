@@ -15,8 +15,8 @@ MongoDB: Non-Relational Database
 Express: NodeJS web server
 React: JavaScript Frontend Library
 Node: JavaScript Web Server
-|[tranzlate]()|
-|-|
+
+
 
 
 

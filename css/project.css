@@ -1,0 +1,14 @@
+body{background-color: black;}
+ .center{
+    color: aqua;
+    background-color:darkblue;
+   
+    text-align: center;
+    
+}
+h1{color: blue;
+margin: 50px;
+border: 10cm;
+padding: 10px;
+text-align: center;
+}
